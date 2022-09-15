@@ -1,6 +1,8 @@
 # Głębokie uczenie. Wprowadzenie
 
-Materiały do książki "Głębokie uczenie. Wprowadzenie". Aby uruchomić notatniki zawarte w tym repozytorium, [zainstaluj menadżer pakietów Anaconda](https://docs.anaconda.com/anaconda/install/).
+Materiały do książki "Głębokie uczenie. Wprowadzenie". Zobacz [podgląd książki](http://ww2.ii.uj.edu.pl/~smieja/publications/short.pdf) lub [pełną wersję](https://helion.pl/ksiazki/glebokie-uczenie-wprowadzenie-jacek-tabor-marek-smieja-lukasz-struski-przemys,glucze.htm#format/d).
+
+Aby uruchomić notatniki zawarte w tym repozytorium, [zainstaluj menadżer pakietów Anaconda](https://docs.anaconda.com/anaconda/install/).
 
 Po zainstalowaniu Anacondy, przejdź do folderu zawierającego repozytorium i wprowadź następujące polecenie w linii komend by stworzyć środowisko zawierające wszystkie potrzebne pakiety:
 
